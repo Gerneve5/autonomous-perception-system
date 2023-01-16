@@ -5,3 +5,4 @@ Commit at 2023-01-04T11:38:49: Initial research on model architecture
 Commit at 2023-01-05T11:07:15: Initial research on model architecture
 Commit at 2023-01-12T17:30:37: Initial research on model architecture
 Commit at 2023-01-12T13:47:34: Implement new optimization algorithm
+Commit at 2023-01-16T18:29:22: Update documentation and examples
