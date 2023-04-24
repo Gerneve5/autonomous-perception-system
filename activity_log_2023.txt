@@ -56,3 +56,4 @@ Commit at 2023-04-19T15:23:10: Drafting core components
 Commit at 2023-04-20T18:13:09: Update dependencies
 Commit at 2023-04-21T13:09:03: Refactor training loop
 Commit at 2023-04-21T11:35:14: Improve error handling
+Commit at 2023-04-24T15:24:29: Update documentation and examples
