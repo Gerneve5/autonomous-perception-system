@@ -59,3 +59,4 @@ Commit at 2023-04-21T11:35:14: Improve error handling
 Commit at 2023-04-24T15:24:29: Update documentation and examples
 Commit at 2023-04-27T10:16:46: Optimize memory usage
 Commit at 2023-04-28T17:59:29: Add visualization tools
+Commit at 2023-05-03T09:49:08: Add support for new model architectures
