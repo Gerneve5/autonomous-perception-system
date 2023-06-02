@@ -76,3 +76,4 @@ Commit at 2023-05-26T09:49:22: Initial research on model architecture
 Commit at 2023-05-31T09:56:59: Update README with new benchmarks
 Commit at 2023-05-31T12:14:52: Improve error handling
 Commit at 2023-06-01T13:38:15: Improve error handling
+Commit at 2023-06-02T09:38:00: Implement new optimization algorithm
