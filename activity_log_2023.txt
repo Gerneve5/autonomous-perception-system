@@ -89,3 +89,4 @@ Commit at 2023-06-19T09:04:50: Add unit tests for new features
 Commit at 2023-06-20T16:20:54: Optimize memory usage
 Commit at 2023-06-26T18:55:33: Initial research on model architecture
 Commit at 2023-06-26T17:31:50: Fix edge case in sensor fusion
+Commit at 2023-06-28T16:57:11: Add support for new model architectures
