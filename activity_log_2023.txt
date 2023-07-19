@@ -102,3 +102,4 @@ Commit at 2023-07-14T15:25:31: Add unit tests for new features
 Commit at 2023-07-14T12:30:27: Drafting core components
 Commit at 2023-07-17T13:21:41: Improve error handling
 Commit at 2023-07-18T17:07:40: Improve error handling
+Commit at 2023-07-19T09:06:20: Setting up development environment
