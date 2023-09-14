@@ -99,3 +99,8 @@ from pykalman import KalmanFilter
 
 class PerceptionSystem:
     def __init__(self):
+        self.kf = KalmanFilter(initial_state_mean=0, n_dim_obs=1)
+    def process_lidar(self, pc):
+        return np.mean(pc, axis=0)
+    def fuse(self, lidar, camera):
+        return lidar * 0.6 + camera * 0.4
