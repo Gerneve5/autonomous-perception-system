@@ -104,3 +104,4 @@ class PerceptionSystem:
         return np.mean(pc, axis=0)
     def fuse(self, lidar, camera):
         return lidar * 0.6 + camera * 0.4
+
