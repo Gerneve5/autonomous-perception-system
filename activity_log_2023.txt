@@ -186,3 +186,4 @@ Commit at 2023-12-12T09:24:27: Setting up development environment
 Commit at 2023-12-18T09:16:53: Update documentation and examples
 Commit at 2023-12-19T18:24:14: Initial research on model architecture
 Commit at 2023-12-21T13:14:42: Initial research on model architecture
+Commit at 2023-12-21T17:44:24: Refactor training loop
