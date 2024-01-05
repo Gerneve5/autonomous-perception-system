@@ -197,3 +197,4 @@ Commit at 2024-01-01T11:58:50: Refactor training loop
 Commit at 2024-01-02T09:46:49: Clean up code and remove unused imports
 Commit at 2024-01-04T12:12:45: Refactor training loop
 Commit at 2024-01-05T17:01:01: Improve error handling
+Commit at 2024-01-05T10:37:47: Add visualization tools
