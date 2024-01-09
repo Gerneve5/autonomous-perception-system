@@ -5,3 +5,4 @@ Commit at 2024-01-04T12:27:29: Add support for mixed precision training
 Commit at 2024-01-05T09:38:11: Refactor core logic for better performance
 Commit at 2024-01-08T14:07:39: Improve model convergence
 Commit at 2024-01-08T16:46:22: Improve model convergence
+Commit at 2024-01-09T10:29:01: Clean up code and remove unused imports
