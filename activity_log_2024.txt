@@ -15,3 +15,4 @@ Commit at 2024-01-12T12:25:05: Add support for mixed precision training
 Commit at 2024-01-16T12:58:28: Improve model convergence
 Commit at 2024-01-18T10:51:48: Fix edge case in sensor fusion
 Commit at 2024-01-18T11:04:34: Update README with new benchmarks
+Commit at 2024-01-22T18:46:36: Update hyperparameter tuning scripts
