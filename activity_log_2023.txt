@@ -210,3 +210,4 @@ Commit at 2024-01-22T10:31:22: Fix edge case in sensor fusion
 Commit at 2024-01-24T17:05:49: Update dependencies
 Commit at 2024-01-25T18:46:23: Setting up development environment
 Commit at 2024-01-26T12:49:01: Fix edge case in sensor fusion
+Commit at 2024-01-29T16:36:24: Update documentation and examples
