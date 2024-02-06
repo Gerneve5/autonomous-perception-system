@@ -29,3 +29,4 @@ Commit at 2024-01-31T09:45:20: Update hyperparameter tuning scripts
 Commit at 2024-02-01T10:01:47: Refactor core logic for better performance
 Commit at 2024-02-02T10:57:44: Update dependencies
 Commit at 2024-02-02T16:10:14: Improve error handling
+Commit at 2024-02-06T15:04:32: Optimize memory usage
