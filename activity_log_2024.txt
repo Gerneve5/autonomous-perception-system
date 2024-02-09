@@ -32,3 +32,4 @@ Commit at 2024-02-02T16:10:14: Improve error handling
 Commit at 2024-02-06T15:04:32: Optimize memory usage
 Commit at 2024-02-06T14:36:01: Refactor core logic for better performance
 Commit at 2024-02-09T17:38:05: Improve model convergence
+Commit at 2024-02-09T13:49:04: Clean up code and remove unused imports
