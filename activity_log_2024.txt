@@ -55,3 +55,4 @@ Commit at 2024-03-07T14:17:48: Clean up code and remove unused imports
 Commit at 2024-03-08T13:23:22: Update dependencies
 Commit at 2024-03-08T13:07:16: Fix edge case in sensor fusion
 Commit at 2024-03-11T13:41:59: Fix minor bug in data processing
+Commit at 2024-03-12T10:11:42: Update documentation and examples
