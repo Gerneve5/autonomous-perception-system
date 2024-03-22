@@ -66,3 +66,4 @@ Commit at 2024-03-20T13:02:05: Improve model convergence
 Commit at 2024-03-21T11:30:08: Add support for mixed precision training
 Commit at 2024-03-21T16:29:47: Clean up code and remove unused imports
 Commit at 2024-03-22T10:00:31: Clean up code and remove unused imports
+Commit at 2024-03-22T16:56:15: Optimize memory usage
