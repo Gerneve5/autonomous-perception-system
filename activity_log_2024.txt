@@ -70,3 +70,4 @@ Commit at 2024-03-22T16:56:15: Optimize memory usage
 Commit at 2024-03-25T15:45:00: Improve model convergence
 Commit at 2024-03-26T17:17:11: Fix edge case in sensor fusion
 Commit at 2024-03-27T14:43:54: Fix edge case in sensor fusion
+Commit at 2024-03-28T10:52:31: Add support for new model architectures
