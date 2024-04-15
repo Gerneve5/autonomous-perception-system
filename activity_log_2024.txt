@@ -88,3 +88,4 @@ Commit at 2024-04-11T10:07:51: Add visualization tools
 Commit at 2024-04-11T09:33:17: Update documentation and examples
 Commit at 2024-04-12T12:02:26: Clean up code and remove unused imports
 Commit at 2024-04-12T12:53:07: Fix edge case in sensor fusion
+Commit at 2024-04-15T11:01:08: Add unit tests for new features
