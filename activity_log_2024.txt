@@ -102,3 +102,4 @@ Commit at 2024-04-24T10:34:53: Update hyperparameter tuning scripts
 Commit at 2024-04-26T17:04:08: Fix edge case in sensor fusion
 Commit at 2024-04-26T09:59:46: Update README with new benchmarks
 Commit at 2024-04-29T11:31:02: Fix minor bug in data processing
+Commit at 2024-04-29T11:24:27: Improve error handling
