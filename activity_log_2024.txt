@@ -136,3 +136,4 @@ Commit at 2024-05-31T12:32:19: Add visualization tools
 Commit at 2024-06-03T12:43:47: Add support for mixed precision training
 Commit at 2024-06-04T12:19:37: Update README with new benchmarks
 Commit at 2024-06-04T11:28:13: Add support for new model architectures
+Commit at 2024-06-05T12:14:01: Optimize memory usage
