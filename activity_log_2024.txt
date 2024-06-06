@@ -138,3 +138,4 @@ Commit at 2024-06-04T12:19:37: Update README with new benchmarks
 Commit at 2024-06-04T11:28:13: Add support for new model architectures
 Commit at 2024-06-05T12:14:01: Optimize memory usage
 Commit at 2024-06-05T13:49:20: Add support for mixed precision training
+Commit at 2024-06-06T13:08:18: Update documentation and examples
