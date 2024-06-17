@@ -149,3 +149,4 @@ Commit at 2024-06-12T09:50:54: Add visualization tools
 Commit at 2024-06-13T16:13:17: Update README with new benchmarks
 Commit at 2024-06-14T12:08:51: Optimize memory usage
 Commit at 2024-06-17T09:38:03: Add support for new model architectures
+Commit at 2024-06-17T12:53:36: Optimize memory usage
