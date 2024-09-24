@@ -224,3 +224,4 @@ Commit at 2024-09-19T15:06:56: Add visualization tools
 Commit at 2024-09-20T15:35:34: Fix minor bug in data processing
 Commit at 2024-09-23T09:37:46: Optimize memory usage
 Commit at 2024-09-23T16:30:28: Optimize memory usage
+Commit at 2024-09-24T16:24:15: Add support for mixed precision training
