@@ -4,3 +4,4 @@ Commit at 2024-11-06T12:12:00: Update documentation and examples
 Commit at 2024-11-06T18:38:13: Add unit tests for new features
 Commit at 2024-11-07T09:20:07: Enhance logging and monitoring
 Commit at 2024-11-08T11:08:45: Fix minor bug in data processing
+Commit at 2024-11-08T14:06:08: Update README with new benchmarks
