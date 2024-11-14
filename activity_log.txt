@@ -7,3 +7,4 @@ Commit at 2024-11-08T11:08:45: Fix minor bug in data processing
 Commit at 2024-11-08T14:06:08: Update README with new benchmarks
 Commit at 2024-11-11T15:30:48: Fix minor bug in data processing
 Commit at 2024-11-13T17:09:41: Refactor training loop
+Commit at 2024-11-14T16:37:27: Clean up code and remove unused imports
