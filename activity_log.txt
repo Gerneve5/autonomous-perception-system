@@ -19,3 +19,4 @@ Commit at 2024-11-21T11:50:57: Optimize memory usage
 Commit at 2024-11-21T16:02:02: Implement new optimization algorithm
 Commit at 2024-11-25T18:29:52: Refactor training loop
 Commit at 2024-11-27T14:00:09: Clean up code and remove unused imports
+Commit at 2024-11-28T14:44:46: Add unit tests for new features
