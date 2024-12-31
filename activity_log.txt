@@ -56,3 +56,4 @@ Commit at 2024-12-27T18:10:59: Improve error handling
 Commit at 2024-12-30T11:54:59: Refactor training loop
 Commit at 2024-12-30T11:47:24: Update documentation and examples
 Commit at 2024-12-30T18:40:33: Optimize memory usage
+Commit at 2024-12-31T10:50:29: Optimize memory usage
