@@ -58,3 +58,4 @@ Commit at 2024-12-30T11:47:24: Update documentation and examples
 Commit at 2024-12-30T18:40:33: Optimize memory usage
 Commit at 2024-12-31T10:50:29: Optimize memory usage
 Commit at 2024-12-31T11:11:56: Fix minor bug in data processing
+Commit at 2025-01-01T15:18:56: Refactor training loop
