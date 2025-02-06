@@ -104,3 +104,4 @@ Commit at 2025-02-04T18:10:39: Update README with new benchmarks
 Commit at 2025-02-05T15:20:15: Refactor training loop
 Commit at 2025-02-05T11:10:44: Update dependencies
 Commit at 2025-02-05T17:41:56: Update documentation and examples
+Commit at 2025-02-06T12:40:38: Fix edge case in sensor fusion
