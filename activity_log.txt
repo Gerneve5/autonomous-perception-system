@@ -113,3 +113,4 @@ Commit at 2025-02-12T11:27:09: Update dependencies
 Commit at 2025-02-12T12:52:59: Improve error handling
 Commit at 2025-02-13T16:39:25: Add support for new model architectures
 Commit at 2025-02-14T13:15:04: Add unit tests for new features
+Commit at 2025-02-17T18:52:29: Improve error handling
