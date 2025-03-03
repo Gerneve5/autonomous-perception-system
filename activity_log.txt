@@ -126,3 +126,4 @@ Commit at 2025-02-27T16:12:51: Update documentation and examples
 Commit at 2025-02-27T09:46:12: Add unit tests for new features
 Commit at 2025-02-28T12:57:21: Optimize memory usage
 Commit at 2025-03-02T16:46:24: Enhance logging and monitoring
+Commit at 2025-03-03T13:39:29: Update README with new benchmarks
