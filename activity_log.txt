@@ -140,3 +140,4 @@ Commit at 2025-03-13T10:05:05: Update dependencies
 Commit at 2025-03-14T13:33:17: Refactor training loop
 Commit at 2025-03-14T17:09:59: Add unit tests for new features
 Commit at 2025-03-19T09:36:05: Clean up code and remove unused imports
+Commit at 2025-03-19T15:40:43: Add unit tests for new features
