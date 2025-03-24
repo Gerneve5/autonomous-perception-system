@@ -143,3 +143,4 @@ Commit at 2025-03-19T09:36:05: Clean up code and remove unused imports
 Commit at 2025-03-19T15:40:43: Add unit tests for new features
 Commit at 2025-03-21T10:50:17: Clean up code and remove unused imports
 Commit at 2025-03-21T14:19:37: Add unit tests for new features
+Commit at 2025-03-24T15:51:52: Refactor training loop
