@@ -166,3 +166,4 @@ Commit at 2025-04-08T12:06:18: Improve error handling
 Commit at 2025-04-09T15:31:05: Update dependencies
 Commit at 2025-04-10T14:43:38: Update dependencies
 Commit at 2025-04-14T13:36:09: Improve error handling
+Commit at 2025-04-16T18:02:44: Add support for new model architectures
