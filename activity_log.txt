@@ -186,3 +186,4 @@ Commit at 2025-05-02T10:05:57: Fix minor bug in data processing
 Commit at 2025-05-06T10:35:41: Update dependencies
 Commit at 2025-05-07T12:00:52: Add visualization tools
 Commit at 2025-05-09T18:38:23: Add visualization tools
+Commit at 2025-05-12T17:50:21: Refactor core logic for better performance
