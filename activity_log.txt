@@ -207,3 +207,4 @@ Commit at 2025-05-26T13:55:57: Update documentation and examples
 Commit at 2025-05-26T14:10:24: Optimize memory usage
 Commit at 2025-05-26T15:03:42: Update documentation and examples
 Commit at 2025-05-27T11:14:53: Update dependencies
+Commit at 2025-05-28T16:22:49: Add support for new model architectures
