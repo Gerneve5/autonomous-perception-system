@@ -242,3 +242,4 @@ Commit at 2025-06-20T12:35:22: Enhance logging and monitoring
 Commit at 2025-06-23T12:45:57: Add unit tests for new features
 Commit at 2025-06-24T15:09:09: Update README with new benchmarks
 Commit at 2025-06-24T13:13:33: Refactor training loop
+Commit at 2025-06-25T16:05:07: Update documentation and examples
