@@ -280,3 +280,4 @@ Commit at 2025-07-29T17:09:26: Fix minor bug in data processing
 Commit at 2025-07-30T09:05:47: Update dependencies
 Commit at 2025-07-30T12:24:45: Update dependencies
 Commit at 2025-07-31T18:13:16: Update documentation and examples
+Commit at 2025-08-01T14:08:52: Add unit tests for new features
