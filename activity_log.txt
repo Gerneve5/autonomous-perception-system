@@ -307,3 +307,4 @@ Commit at 2025-08-19T16:31:55: Add support for new model architectures
 Commit at 2025-08-20T14:08:11: Fix edge case in sensor fusion
 Commit at 2025-08-20T12:04:51: Improve error handling
 Commit at 2025-08-22T15:34:58: Add support for new model architectures
+Commit at 2025-08-22T14:35:05: Update dependencies
